@@ -4,7 +4,7 @@
 </p>
 
 # Привет всем
-## Я Junior Анналитик данных из Санкт-Петербурга
+## Я Анналитик данных из Санкт-Петербурга
 
 <img align="right" alt="Coding" width="400" src="https://github.com/milka-de/milka-de/blob/main/assets/programistka.png">
 <p align="left">
