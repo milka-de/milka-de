@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="1200" height="200" src="https://github.com/milka-de/milka-de/blob/main/assets/kot2.gif">
+<img width="1200" height="150" src="https://github.com/milka-de/milka-de/blob/main/assets/kot2.gif">
 </p>
 
 # Привет всем
