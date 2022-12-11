@@ -20,7 +20,7 @@
 
 <h3 align="left">Мои соцсети:</h3>  
 <p align="left">
-<a href="https://kaggle.com/milita denisova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="milita denisova" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/militadenisova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="milita denisova" height="30" width="40" /></a>
 <a href="https://instagram.com/milka_de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milka_de" height="30" width="40" /></a>
 <a href="https://vk.com/id13010019" target="blank"><img align="center" src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk"  height="30" width="140" /></a>
  </p>
